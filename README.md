@@ -62,7 +62,7 @@ class StudentManagement {
     }
 }
 
-public class StudentManagementApp {
+public class StudentManagement1 {
     private static final Scanner sc = new Scanner(System.in);
     private static final StudentManagement sm = new StudentManagement();
 
